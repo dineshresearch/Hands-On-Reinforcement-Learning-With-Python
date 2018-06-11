@@ -15,9 +15,9 @@ Reinforcement Learning with Python will take your learning to the next level. It
 
 The book starts with an introduction to Reinforcement Learning, OpenAI, and TensorFlow. You will then explore Reinforcement learning algorithms and concepts such as the Markov Decision Processes (MDPs), Monte-Carlo tree search, and dynamic programming, including policy and value iteration. You will get to grips with temporal difference learning algorithms, including Q-learning and SARSA. This example-rich guide will introduce you to neural networks and deep learning, covering various deep learning algorithms. You will explore deep reinforcement learning in depth, which is a combination of deep learning and reinforcement learning. You will also learn how deep reinforcement learning algorithms can be used with TensorFlow to build intelligent applications.
 
-### [1. Introduction to Reinforcement Learning](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/1.%20Introduction%20to%20Reinforcement%20Learning)
+### [1. Introduction to Reinforcement Learning](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/01.%20Introduction%20to%20Reinforcement%20Learning)
 
-* [1.1. What is Reinforcement Learning?](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/1.%20Introduction%20to%20Reinforcement%20Learning/1.1%20What%20is%20Reinforcement%20Learning.ipynb)
+* [1.1. What is Reinforcement Learning?](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/01.%20Introduction%20to%20Reinforcement%20Learning/1.1%20What%20is%20Reinforcement%20Learning.ipynb)
 * [1.2. Reinforcement Learning Cycle](#)
 * [1.3. How RL differs from other ML Paradigms?](#)
 * [1.4. Elements of Reinforcement Learning](#)
@@ -28,7 +28,7 @@ The book starts with an introduction to Reinforcement Learning, OpenAI, and Tens
 
 
 
-### [2. Getting Started with OpenAi and Tensorflow](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/2.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow)
+### [2. Getting Started with OpenAi and Tensorflow](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/tree/master/02.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow)
 
 * [2.1. Setting Up Your Machine ](#)
 * [2.2. Installing Anaconda](#)
@@ -36,9 +36,9 @@ The book starts with an introduction to Reinforcement Learning, OpenAI, and Tens
 * [2.4. Installing OpenAI Gym and Universe ](#)
 * [2.5. Common Error Fixes](#)
 * [2.6. OpenAI Gym ](#)
-* [2.7. Basic Simulations](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/2.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow/2.7%20Basic%20Simulations.ipynb)
-* [2.8. Training a Robot to walk ](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/2.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow/2.8%20Training%20an%20Robot%20to%20Walk.ipynb)
-* [2.9. Building a Video Game Bot](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/2.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow/2.9%20Building%20a%20Video%20Game%20Bot%20.ipynb) 
+* [2.7. Basic Simulations](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/02.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow/2.7%20Basic%20Simulations.ipynb)
+* [2.8. Training a Robot to walk ](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/02.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow/2.8%20Training%20an%20Robot%20to%20Walk.ipynb)
+* [2.9. Building a Video Game Bot](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/02.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow/2.9%20Building%20a%20Video%20Game%20Bot%20.ipynb) 
 * [2.10. Tensorflow Fundamentals](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/2.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow/2.10%20TensorFlow%20Fundamentals.ipynb)
 * [2.11. Tensorboard](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python/blob/master/2.%20Getting%20Started%20with%20OpenAI%20and%20Tensorflow/2.11%20TensorBoard.ipynb)
 
